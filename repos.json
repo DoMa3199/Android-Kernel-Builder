@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "build",
+      "name": "T-Rex",
       "repo": "https://github.com/DoMa3199/android_kernel_source_gta4lve",
       "branch": "T509XXS3AXJ2",
-      "device": "kernel"
+      "device": "gta4lve"
     },
     "withKernelSU": false,
     "toolchains": [
